@@ -1,9 +1,5 @@
 # Python para Data Science
-<<<<<<< HEAD
 Autores: Fabricio Duarte Malta de Abreu
-=======
-Autores: Julio Miranda o Corinthiano
->>>>>>> 73c90c0fa94bdb6451f18d0c64a63b99dda2eaec
 
 Versão: 1
 
