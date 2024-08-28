@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Fabricio Duarte Malta de Abreu
+Autores: Fabricio Duarte Malta de Abreu SENAI
 
 Versão: 1
 
