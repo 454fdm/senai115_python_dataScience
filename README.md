@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Fabricio Malta
+Autores: Fabricio Duarte Malta de Abreu
 
 Versão: 1
 
